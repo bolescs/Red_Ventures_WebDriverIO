@@ -8,4 +8,16 @@ Open command line and navigate to the WebDriverIO_project directory.
 
 Frome here type the following commands:
 
+npm install webdriverio
+
+npm install mocha
+
+npm install spec
+
+npm install selenium-standalone
+
+Finally, run the command 'npm test' to run the test cases.
+
+
+# Testing Approach
 
