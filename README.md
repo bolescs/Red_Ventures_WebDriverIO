@@ -1,2 +1,3 @@
 # Red Ventures WebDriverIO project.
-## ;lkjasdf;lkjsdlk;fj
+## Installations and how to run the tests:
+You must have Node.js, Java, Chrome, and Firefox installed before running.
