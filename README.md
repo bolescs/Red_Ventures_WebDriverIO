@@ -20,4 +20,4 @@ Finally, run the command 'npm test' to run the test cases.
 
 
 # Testing Approach
-
+My first objective with this project was to do some exploring on the site and see what features I could envision a test case for.  I've done quite a bit of input validation tests in my experience, so the ZIP code search caught my attention first.
